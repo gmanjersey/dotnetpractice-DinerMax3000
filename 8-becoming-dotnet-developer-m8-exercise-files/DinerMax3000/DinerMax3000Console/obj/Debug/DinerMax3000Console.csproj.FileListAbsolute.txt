@@ -1,0 +1,8 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DinerMax3000\DinerMax3000Console\bin\Debug\DinerMax3000Console.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DinerMax3000\DinerMax3000Console\bin\Debug\DinerMax3000Console.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DinerMax3000\DinerMax3000Console\bin\Debug\DinerMax3000Console.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DinerMax3000\DinerMax3000Console\bin\Debug\DinerMax3000BusinessLayer.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DinerMax3000\DinerMax3000Console\bin\Debug\DinerMax3000BusinessLayer.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DinerMax3000\DinerMax3000Console\obj\Debug\DinerMax3000Console.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DinerMax3000\DinerMax3000Console\obj\Debug\DinerMax3000Console.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DinerMax3000\DinerMax3000Console\obj\Debug\DinerMax3000Console.pdb

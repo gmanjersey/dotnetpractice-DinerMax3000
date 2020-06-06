@@ -1,0 +1,19 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DinerMax3000\DinerMax3000Services\bin\Debug\DinerMax3000Services.dll.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DinerMax3000\DinerMax3000Services\bin\Debug\DinerMax3000Services.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DinerMax3000\DinerMax3000Services\bin\Debug\DinerMax3000Services.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DinerMax3000\DinerMax3000Services\bin\Debug\DinerMax3000BusinessLayer.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DinerMax3000\DinerMax3000Services\bin\Debug\DinerMax3000BusinessLayer.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DinerMax3000\DinerMax3000Services\obj\Debug\DinerMax3000Services.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DinerMax3000\DinerMax3000Services\obj\Debug\DinerMax3000Services.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DinerMax3000\DinerMax3000Services\obj\Debug\DinerMax3000Services.pdb
+C:\Leroy\SC\Git\dotnetpractice\DinerMax3000\8-becoming-dotnet-developer-m8-exercise-files\DinerMax3000\DinerMax3000Services\bin\Debug\DinerMax3000Services.dll.config
+C:\Leroy\SC\Git\dotnetpractice\DinerMax3000\8-becoming-dotnet-developer-m8-exercise-files\DinerMax3000\DinerMax3000Services\bin\Debug\DinerMax3000Services.dll
+C:\Leroy\SC\Git\dotnetpractice\DinerMax3000\8-becoming-dotnet-developer-m8-exercise-files\DinerMax3000\DinerMax3000Services\bin\Debug\DinerMax3000Services.pdb
+C:\Leroy\SC\Git\dotnetpractice\DinerMax3000\8-becoming-dotnet-developer-m8-exercise-files\DinerMax3000\DinerMax3000Services\bin\Debug\DinerMax3000BusinessLayer.dll
+C:\Leroy\SC\Git\dotnetpractice\DinerMax3000\8-becoming-dotnet-developer-m8-exercise-files\DinerMax3000\DinerMax3000Services\bin\Debug\DinerMax3000BusinessLayer.pdb
+C:\Leroy\SC\Git\dotnetpractice\DinerMax3000\8-becoming-dotnet-developer-m8-exercise-files\DinerMax3000\DinerMax3000Services\bin\Debug\DinerMax3000BusinessLayer.dll.config
+C:\Leroy\SC\Git\dotnetpractice\DinerMax3000\8-becoming-dotnet-developer-m8-exercise-files\DinerMax3000\DinerMax3000Services\obj\Debug\DinerMax3000Services.csprojAssemblyReference.cache
+C:\Leroy\SC\Git\dotnetpractice\DinerMax3000\8-becoming-dotnet-developer-m8-exercise-files\DinerMax3000\DinerMax3000Services\obj\Debug\DinerMax3000Services.csproj.CoreCompileInputs.cache
+C:\Leroy\SC\Git\dotnetpractice\DinerMax3000\8-becoming-dotnet-developer-m8-exercise-files\DinerMax3000\DinerMax3000Services\obj\Debug\DinerMax3000Services.csproj.CopyComplete
+C:\Leroy\SC\Git\dotnetpractice\DinerMax3000\8-becoming-dotnet-developer-m8-exercise-files\DinerMax3000\DinerMax3000Services\obj\Debug\DinerMax3000Services.dll
+C:\Leroy\SC\Git\dotnetpractice\DinerMax3000\8-becoming-dotnet-developer-m8-exercise-files\DinerMax3000\DinerMax3000Services\obj\Debug\DinerMax3000Services.pdb

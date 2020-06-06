@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DinerMax3000\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DinerMax3000\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DinerMax3000\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DinerMax3000\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DinerMax3000\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

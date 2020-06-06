@@ -1,0 +1,18 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DinerMax3000\DinerMax3000UnitTests\bin\Debug\DinerMax3000UnitTests.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DinerMax3000\DinerMax3000UnitTests\bin\Debug\DinerMax3000UnitTests.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DinerMax3000\DinerMax3000UnitTests\bin\Debug\DinerMax3000BusinessLayer.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DinerMax3000\DinerMax3000UnitTests\bin\Debug\DinerMax3000BusinessLayer.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DinerMax3000\DinerMax3000UnitTests\obj\Debug\DinerMax3000UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DinerMax3000\DinerMax3000UnitTests\obj\Debug\DinerMax3000UnitTests.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\DinerMax3000\DinerMax3000UnitTests\obj\Debug\DinerMax3000UnitTests.pdb
+C:\Leroy\SC\Git\dotnetpractice\DinerMax3000\9-becoming-dotnet-developer-m9-exercise-files\DinerMax3000\DinerMax3000UnitTests\bin\Debug\DinerMax3000UnitTests.dll
+C:\Leroy\SC\Git\dotnetpractice\DinerMax3000\9-becoming-dotnet-developer-m9-exercise-files\DinerMax3000\DinerMax3000UnitTests\bin\Debug\DinerMax3000UnitTests.pdb
+C:\Leroy\SC\Git\dotnetpractice\DinerMax3000\9-becoming-dotnet-developer-m9-exercise-files\DinerMax3000\DinerMax3000UnitTests\bin\Debug\DinerMax3000BusinessLayer.dll
+C:\Leroy\SC\Git\dotnetpractice\DinerMax3000\9-becoming-dotnet-developer-m9-exercise-files\DinerMax3000\DinerMax3000UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Leroy\SC\Git\dotnetpractice\DinerMax3000\9-becoming-dotnet-developer-m9-exercise-files\DinerMax3000\DinerMax3000UnitTests\bin\Debug\DinerMax3000BusinessLayer.pdb
+C:\Leroy\SC\Git\dotnetpractice\DinerMax3000\9-becoming-dotnet-developer-m9-exercise-files\DinerMax3000\DinerMax3000UnitTests\bin\Debug\DinerMax3000BusinessLayer.dll.config
+C:\Leroy\SC\Git\dotnetpractice\DinerMax3000\9-becoming-dotnet-developer-m9-exercise-files\DinerMax3000\DinerMax3000UnitTests\obj\Debug\DinerMax3000UnitTests.csprojAssemblyReference.cache
+C:\Leroy\SC\Git\dotnetpractice\DinerMax3000\9-becoming-dotnet-developer-m9-exercise-files\DinerMax3000\DinerMax3000UnitTests\obj\Debug\DinerMax3000UnitTests.csproj.CoreCompileInputs.cache
+C:\Leroy\SC\Git\dotnetpractice\DinerMax3000\9-becoming-dotnet-developer-m9-exercise-files\DinerMax3000\DinerMax3000UnitTests\obj\Debug\DinerMax3000UnitTests.csproj.CopyComplete
+C:\Leroy\SC\Git\dotnetpractice\DinerMax3000\9-becoming-dotnet-developer-m9-exercise-files\DinerMax3000\DinerMax3000UnitTests\obj\Debug\DinerMax3000UnitTests.dll
+C:\Leroy\SC\Git\dotnetpractice\DinerMax3000\9-becoming-dotnet-developer-m9-exercise-files\DinerMax3000\DinerMax3000UnitTests\obj\Debug\DinerMax3000UnitTests.pdb
